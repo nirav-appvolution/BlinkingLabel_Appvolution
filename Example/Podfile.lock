@@ -1,0 +1,16 @@
+PODS:
+  - BlinkingLabel_Appvolution (0.1.0)
+
+DEPENDENCIES:
+  - BlinkingLabel_Appvolution (from `../`)
+
+EXTERNAL SOURCES:
+  BlinkingLabel_Appvolution:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BlinkingLabel_Appvolution: 37b5c8efaec0b5a279eb3ba1088c0d1b041ebe0e
+
+PODFILE CHECKSUM: 33a48c2235a7962c8d74ed87a9776c6faf870e71
+
+COCOAPODS: 1.0.1

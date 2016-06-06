@@ -1,0 +1,6 @@
+framework module BlinkingLabel_Appvolution {
+  umbrella header "BlinkingLabel_Appvolution-umbrella.h"
+
+  export *
+  module * { export * }
+}
